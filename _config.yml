@@ -1,3 +1,10 @@
 theme: jekyll-theme-minimal
 title: BBS Motorsports Hardware Info
 description: Information on BBS Motorsports Hardware
+
+header_pages:
+ - 16-inch-wheels.md
+ - 17-inch-wheels.md
+ - 18-inch-wheels.md
+ - wheel-centers.md
+ - wheel-accessories.md
