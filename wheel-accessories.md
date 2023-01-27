@@ -1,3 +1,7 @@
+---
+title: Wheel Accessories
+---
+
 | Category | Part Number | Description |
 | ---- | ---- | ---- |
 | Metal Stems | 56.15.002 | 5.5mm Steel Stem |
