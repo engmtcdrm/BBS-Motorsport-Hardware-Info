@@ -1,4 +1,4 @@
-theme: minima
+remote_theme: jekyll/minima
 title: BBS Motorsports Hardware Info
 description: Information on BBS Motorsports Hardware
 
