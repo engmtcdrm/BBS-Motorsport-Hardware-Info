@@ -1,6 +1,9 @@
-# theme: jekyll-theme-minima
+theme: minima
 title: BBS Motorsports Hardware Info
 description: Information on BBS Motorsports Hardware
+
+minima:
+  skin: dark
 
 header_pages:
  - 16-inch-wheels.md
