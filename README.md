@@ -1,7 +1,6 @@
-# BBS-Motorsport-Hardware-Info
 The purpose of this repository is to maintain/archive BBS Motorsport Hardware for older BBS Motorsport wheels.
 
-## **Please note that 3 piece racing wheels should be torqued to 155 inch pounds.**
+### **Please note that 3 piece racing wheels should be torqued to 155 inch pounds.**
 
 # Wheel Half Sizes
 ## Flatbase Wheel
