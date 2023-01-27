@@ -26,9 +26,9 @@ Drop-centre wheels will always be delivered completely assembled at no extra cha
 | Diameter (in.) | Flatbase Number of Holes | Dropcenter Number of Holes |
 | ---- | ---- | ---- |
 | 13 | 16 | 12 |
-| 14 |    | 16 |
+| 14 | | 16 |
 | 15 | 20 | 16 |
-| 16 |    | 20 |
-| 17 |    | 20 |
-| 18 |    | 24 |
-| 19 |    | 24 |
+| 16 | | 20 |
+| 17 | | 20 |
+| 18 | | 24 |
+| 19 | | 24 |
