@@ -6,9 +6,8 @@ minima:
   skin: dark
 
 header_pages:
- - Wheel Halves
-  - 16-inch-wheels.md
-  - 17-inch-wheels.md
-  - 18-inch-wheels.md
+ - wheel-halves/16-inch-wheels.md
+ - wheel-halves/17-inch-wheels.md
+ - wheel-halves/18-inch-wheels.md
  - wheel-centers.md
  - wheel-accessories.md
