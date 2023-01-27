@@ -1,4 +1,6 @@
-# 17 Inch Wheel Halves
+---
+title: 17 Inch Wheels
+---
 
 | Wheel Half Width (in.) | Outer Thickness | Standard Inner Thickness | Modified Inner Thickness |
 | ---- | ---- | ---- | ---- |

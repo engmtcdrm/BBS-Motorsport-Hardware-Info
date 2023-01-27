@@ -1,15 +1,17 @@
-# 18 Inch Wheel Halves
+---
+title: 18 Inch Wheels
+---
 
 | Wheel Half Width (in.) | Outer Thickness | Standard Inner Thickness | Modified Inner Thickness |
 | ---- | ---- | ---- | ---- |
-| 1.0 | TA-50 | 
-| 1.5 | TA-50 | 
-| 2.0 | TA-40 | 
-| 2.5 | TA-40 | 
-| 3.0 | TA-40 | 
-| 3.5 | TA-40 | 
-| 4.0 | TA-40 | 
-| 4.5 | TA-35 | 
+| 1.0 | TA-50 |
+| 1.5 | TA-50 |
+| 2.0 | TA-40 |
+| 2.5 | TA-40 |
+| 3.0 | TA-40 |
+| 3.5 | TA-40 |
+| 4.0 | TA-40 |
+| 4.5 | TA-35 |
 | 5.0 | TA-35, 40 | TI-50 |
 | 5.5 | TA-35, 40 | TI-50 |
 | 6.0 | TA-35, 40 | TI-50 |

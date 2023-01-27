@@ -1,4 +1,6 @@
-# 3-Piece Wheel Centers
+---
+title: Wheel Centers
+---
 
 | Model | Flatbase Number of Holes | Flatbase Sizes (in Inches) | Drop-Center Number of Holes | Drop-Center Sizes (in Inches) |
 | ---- | ---- | ---- | ---- | ---- |
